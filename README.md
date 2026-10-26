@@ -2,7 +2,7 @@
 
 An experience-first personal website for https://benedima.github.io.
 
-Warm white, forest green, serif headings and an original SVG data-flow illustration follow the visual concept. The content hierarchy takes inspiration from Brittany Chiang's concise experience-focused portfolio; no code, imagery or copy is taken from her website.
+Ocean navy, ivory, sea-glass teal, brass accents, serif headings and an original SVG data-flow illustration follow the visual concept. The content hierarchy takes inspiration from Brittany Chiang's concise experience-focused portfolio; no code, imagery or copy is taken from her website.
 
 ## Preview before publishing
 
@@ -32,9 +32,11 @@ The included workflow validates the HTML and local references on PRs and main pu
 
 ## Editing
 
-- `index.html`: introduction, experience, About, skills and contact links.
+- `index.html`: introduction, experience, About, skills, personal interests and contact links.
 - `assets/styles.css`: colours, layouts, mobile and print styles.
 - `assets/favicon.svg`: browser icon.
+
+The Beyond the keyboard section includes original decorative SVG illustrations for diving, guitar and chess, with a direct link to the owner’s Chess.com profile. Personal artwork stays below the professional content. Print styles retain a light background and omit the interests section.
 
 The site works without JavaScript, external fonts, analytics or third-party embeds. Experience is visible in the initial HTML.
 
